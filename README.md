@@ -1,6 +1,6 @@
 # API
 
-> A Vue.js project
+>Projeto com Vue.js 
 
 ## Build Setup
 
@@ -19,3 +19,20 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+para rodar a aplicação vclientes (Back + Front )
+
+instalar o node.js
+instalar o Vue.js modo CLI
+
+# install vue-cli
+$ npm install --global vue-cli
+
+# colar pasta do projeto onde Vue.js foi instalado globalmente
+# instalar dependencias caso seja necessário
+
+$ cd vclientes
+$ npm install
+$ npm run dev
+
+vizualizar projeto no navegador a partir da porta apresentada
