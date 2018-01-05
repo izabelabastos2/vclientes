@@ -25,14 +25,17 @@ para rodar a aplicação vclientes (Back + Front )
 instalar o node.js
 instalar o Vue.js modo CLI
 
- install vue-cli
+``` bash
+# install vue-cli
 $ npm install --global vue-cli
 
- colar pasta do projeto onde Vue.js foi instalado globalmente
- instalar dependencias caso seja necessário
+# colar pasta do projeto onde Vue.js foi instalado globalmente
+# instalar dependencias caso seja necessário
 
 $ cd vclientes
 $ npm install
 $ npm run dev
+
+```
 
 vizualizar projeto no navegador a partir da porta apresentada
