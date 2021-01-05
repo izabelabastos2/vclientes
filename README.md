@@ -21,7 +21,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-para rodar a aplicação vclientes (Back + Front )
+to run the application vclientes (Back + Front )
 
 instalar o node.js
 instalar o Vue.js modo CLI
@@ -30,13 +30,12 @@ instalar o Vue.js modo CLI
 # install vue-cli
 $ npm install --global vue-cli
 
-# colar pasta do projeto onde Vue.js foi instalado globalmente
-# instalar dependencias caso seja necessário
+# paste project folder where Vue.js was installed globally
+# install dependencies if necessary
 
 $ cd vclientes
 $ npm install
 $ npm run dev
 
 ```
-
-vizualizar projeto no navegador a partir da porta apresentada
+view project in the browser from the port shown
