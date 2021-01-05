@@ -1,7 +1,7 @@
 # API
 
->Projeto com Vue.js 
->Aplição interage com o projeto apiphp(back), é necessário baixar as duas pastas para que se possa visualizar o funcionamento da API
+>Project with Vue.js 
+>Application interacts with the project apiphp(back), it is necessary to download the two folders in order to see how the API works
 
 ## Build Setup
 
